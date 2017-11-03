@@ -1,0 +1,4 @@
+Old 6
+New 4
+Both 37
+None 4
